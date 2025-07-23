@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 3,
             name: 'Venusaur',
-            image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png',
+            image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png',
             types: ['grass', 'poison']
         },
         {
