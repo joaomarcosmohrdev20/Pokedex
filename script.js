@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 4,
-            name: 'Venusaur',
-            image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png',
-            types: ['grass', 'poison']
+            name: 'Charmander',
+            image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png',
+            types: ['fire']
         },
         {
             id: 6,
