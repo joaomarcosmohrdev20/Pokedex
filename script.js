@@ -9,6 +9,12 @@ document.addEventListener('DOMContentLoaded', () => {
             types: ['grass', 'poison']
         },
         {
+            id: 4,
+            name: 'Venusaur',
+            image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png',
+            types: ['grass', 'poison']
+        },
+        {
             id: 6,
             name: 'Charizard',
             image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png',
