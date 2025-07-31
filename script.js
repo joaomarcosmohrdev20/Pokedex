@@ -43,7 +43,19 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Mewtwo',
             image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png',
             types: ['psychic']
-        }
+        },
+
+        {
+
+            id: 493,
+            name: 'Arceus',
+            image: 'https://www.google.com/imgres?q=arceus%20image%20url&imgurl=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fm%2F285-2856939_shiny-arceus-arceus-pokemon-clipart.png&imgrefurl=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FiToobim_shiny-arceus-arceus-pokemon-clipart%2F&docid=ENrHpCjDMinMlM&tbnid=dXGTPDepuZVpcM&vet=12ahUKEwi5zb6S5OWOAxUNpJUCHTZ-IU8QM3oECCQQAA..i&w=840&h=878&hcb=2&ved=2ahUKEwi5zb6S5OWOAxUNpJUCHTZ-IU8QM3oECCQQAA',
+            types: ['normal']
+
+        },
+
+        
+
     ];
 
     const createPokemonCard = (pokemon) => {
